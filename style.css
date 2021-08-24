@@ -1,0 +1,23 @@
+#header {
+    display: flex;
+    justify-content: center;
+    background-color: azure;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+#btn-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#btn {
+    margin-top: 200px;
+    background-color: azure;
+    padding: 25px;
+    border-radius: 20px;
+    border: none;
+}
